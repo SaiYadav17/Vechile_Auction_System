@@ -4,12 +4,12 @@
 **Install xampp**
 - Run apache and MySQL servers through xampp
 - Put the project folder to /xammp/htdocs path
-- create Databse on PhpMyAdmin dashboard name --> vehicle_auction
+- create Databse on PhpMyAdmin dashboard name --> Vehicle_Auction_System-main
 - import database ---> _vehicle_auction.sql
   
 
-- Open your browser and browse http://localhost/Auction_System/ (this is the main user page)
-- Admin and manager login page --------->  http://localhost/Auction_System/admin/
+- Open your browser and browse http://localhost/Vehicle_Auction_System-main/ (this is the main user page)
+- Admin and manager login page --------->  http://localhost/Vehicle_Auction_System-main/admin/
 
 Sample User login credential : E-mail ----> gantasaimanichand@gmail.com
                                password---> 234
